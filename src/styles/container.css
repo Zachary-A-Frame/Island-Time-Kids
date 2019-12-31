@@ -1,0 +1,11 @@
+.body-container-title {
+  color: #333333;
+  background-color: white;
+  text-align: center;
+  padding: 50px 80px;
+  justify-content: true;
+}
+
+.body-container-text {
+  text-align: center;
+}

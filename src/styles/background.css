@@ -1,0 +1,27 @@
+.top-background {
+  background-image: url("https://images.pexels.com/photos/164186/pexels-photo-164186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  height: 720px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bottom-background {
+  background-image: url("https://images.unsplash.com/photo-1472586662442-3eec04b9dbda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+  height: 720px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.camp-background {
+  background-image: url("https://images.pexels.com/photos/227674/pexels-photo-227674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=12600");
+  height: 720px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
